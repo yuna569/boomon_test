@@ -52,7 +52,7 @@ export default function Home() {
               width={20}
               height={20}
             />
-            Deploy now
+            help
           </a>
           <a
             href="https://turbo.build/repo/docs?utm_source"
@@ -60,7 +60,7 @@ export default function Home() {
             rel="noopener noreferrer"
             className={styles.secondary}
           >
-            Read our docs
+            super hard
           </a>
         </div>
         <Button appName="docs" className={styles.secondary}>
